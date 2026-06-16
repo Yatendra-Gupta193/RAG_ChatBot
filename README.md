@@ -69,8 +69,8 @@ ChatBot-main/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/GLA-ChatBot.git
-cd GLA-ChatBot
+git clone https://github.com/your-username/RAG-ChatBot.git
+cd RAG-ChatBot
 ```
 
 ### Create Virtual Environment
