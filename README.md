@@ -21,24 +21,17 @@ The application allows users to upload PDF documents and ask questions based on 
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- Streamlit
+### Frontend - Streamlit
 
-### Backend
-- Python
+### Backend - Python
 
-### AI / LLM
-- Google Gemini 2.5 Flash
-- LangChain
+### AI / LLM  - Google Gemini 2.5 Flash  - LangChain
 
-### Vector Database
-- FAISS
+### Vector Database - FAISS
 
-### Embeddings
-- Google Generative AI Embeddings
+### Embeddings - Google Generative AI Embeddings
 
-### PDF Processing
-- PyPDF2
+### PDF Processing - PyPDF2
 
 ---
 
